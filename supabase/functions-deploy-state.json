@@ -1,0 +1,9 @@
+{
+  "projectId": "73041982",
+  "functions": {
+    "send-email-alert": {
+      "hasChanged": false,
+      "hash": "62fb79276bc0b98b443617fad90870c0b0d3a2a72a9d8e8f5ee97d66b418ecde"
+    }
+  }
+}
